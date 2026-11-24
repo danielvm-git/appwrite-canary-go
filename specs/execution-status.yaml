@@ -4,7 +4,8 @@ e03: done
 e04: done
 e05: done
 e08: done
-e09: planning
-e09s01: todo
-e09s02: todo
+e09: in_progress
+e09s01: in_progress
+e09s02: blocked
 e09s03: todo
+e09s02_block_reason: host h05 — go not in _APP_FUNCTIONS_RUNTIMES on oracle

@@ -1,5 +1,8 @@
 .DS_Store
 bin/
+node_modules/
+dist/
+coverage/
 *.exe
 *.test
 .env
