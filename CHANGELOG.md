@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- big-release managed -->
 
+## [2.1.0] - 2026-11-24
+
+### Added
+
+- **app:** todo frontend from shell v2.0.0 ([#8](https://github.com/danielvm-git/appwrite-canary-go/issues/8)) ([9cf43b2](https://github.com/danielvm-git/appwrite-canary-go/commit/9cf43b2ef660f493232981f05a655ac6efcb1930))
+
 ## [2.0.0] - 2026-11-24
 
 ### Fixed
