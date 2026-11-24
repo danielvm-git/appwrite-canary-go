@@ -1,0 +1,12 @@
+id: e05
+title: "Appwrite Function"
+wsjf: 5.5
+total_bcps: 7
+status: planning
+stories:
+  - id: e05s01
+    title: "feat: Appwrite Function proof"
+    bcps: 7
+    status: todo
+    spec: e05s01.md
+    tasks: e05s01-tasks.yaml
